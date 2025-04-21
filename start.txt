@@ -1,0 +1,10 @@
+python -m venv .venv
+source .venv/bin/activate 
+
+
+
+for running .ipynb in browser
+
+cd ~/Desktop/Tennis\ analysis\ in\ ML/
+source .venv/bin/activate
+jupyter notebook
